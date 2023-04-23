@@ -1,2 +1,2 @@
-# project-70-byju
-config work
+# PRO-C71-Template
+Project Template Code
